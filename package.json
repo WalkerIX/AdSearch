@@ -5,7 +5,8 @@
     "body-parser": "latest",
     "express": "^4.12.4",
     "jade": "~1.7.0",
-    "mysql": "^2.10.0"
+    "mysql": "^2.10.0",
+    "nodeadmin": "^0.1.1"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
