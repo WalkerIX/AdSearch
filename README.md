@@ -1,4 +1,4 @@
-This is a web app for searching admission results
-
-
-Jia change comment here.
+1. npm install
+2. node server.js
+3. open localhost:9000/nodeadmin
+4. log into the system

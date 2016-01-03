@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.12.4",
+    "jade": "~1.7.0",
+    "mysql": "^2.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-indent": "^1.0.0",
+    "gulp-insert": "^0.4.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0"
+  }
+}
